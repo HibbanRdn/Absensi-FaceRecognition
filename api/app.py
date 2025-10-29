@@ -11,7 +11,6 @@ import tempfile
 # ============================================================
 # KONFIGURASI APLIKASI
 # ============================================================
-# Catatan: BASE_DIR menunjuk ke parent folder script (sesuaikan jika perlu)
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DB_PATH = os.path.join(BASE_DIR, "absensi.db")
 
