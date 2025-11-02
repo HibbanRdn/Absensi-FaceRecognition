@@ -146,7 +146,7 @@ File ekspor (`absensi_export.csv`) berisi data absensi lengkap dan dapat dibuka 
 **Nama:** Muhamad Hibban Ramadhan
 **Universitas:** Universitas Lampung (Unila)
 **Program Studi:** Teknik Informatika
-📧 *[hibban.rdn@example.com](mailto:hibban.rdn@example.com)* (ganti sesuai email aktif)
+📧 *[hibban.rdn@example.com](mailto:hibbanrdn@gmail.com)* 
 
 ---
 
